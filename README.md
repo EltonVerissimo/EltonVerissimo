@@ -1,6 +1,6 @@
 # Ola mundo! 👋
 
-* 🔭 Trabalhando com React e Java com springboot. E sempre experimentando algo novo;
+* 🔭 Buscando uma oportunidade como game developer;
 * 🚀 Com paixão e curiosidade pode-se chegar a qualquer lugar;
 * ⚡ Amo desafios!!!
 
