@@ -1,6 +1,6 @@
 # Ola mundo! 👋
 
-* 🔭 Buscando uma oportunidade como game developer;
+* 🔭 Buscando ser melhor do que fui ontem;
 * 🚀 Com paixão e curiosidade pode-se chegar a qualquer lugar;
 * ⚡ Amo desafios!!!
 
